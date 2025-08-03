@@ -5,4 +5,13 @@ The last tag in a line must end with a / e.g. <p>Hello</p>
 <h1> = the most important heading
 <h6> = the least important heading
 
-<p> =paragraphs or sentences seperated by lines are made using this
+<p> = paragraphs or sentences seperated by lines are made using this
+<p></p>
+
+<a> = how links are made in  HTML
+<a href="https://www.w3schools.com">This is a link</a>
+
+<img> = how images are shown in HTML
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+The width and height are both optional
+

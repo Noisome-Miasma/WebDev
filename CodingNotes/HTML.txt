@@ -1,0 +1,8 @@
+Do shift+1 and then enter to print the necessary code before scripting in HTML
+
+The last tag in a line must end with a / e.g. <p>Hello</p>
+
+<h1> = the most important heading
+<h6> = the least important heading
+
+<p> =paragraphs or sentences seperated by lines are made using this

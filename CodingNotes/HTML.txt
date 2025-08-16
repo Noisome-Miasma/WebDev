@@ -15,3 +15,15 @@ The last tag in a line must end with a / e.g. <p>Hello</p>
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 The width and height are both optional
 
+<input> = How inputs are made by the viewer of the website
+<input> can include type="" and placeholder="", type would set the type of input(checkbox, range, text)
+while placeholder sets the preview/what should be typed in(if you do password, the text will be hidden as it is typed)
+<input> is an empty tag
+<input type="text" placeholder="password">
+
+<button> = used to make buttons, it isnt an empty tag
+<button>Click me!</button>
+
+styles are used to style text in html. u can use it for colour, background and all sorts of things pertaining to stlye.
+it is written inside the first tag of a html tag.
+<p style="background-color: coral;">Hello!</p>

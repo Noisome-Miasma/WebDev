@@ -25,5 +25,12 @@ while placeholder sets the preview/what should be typed in(if you do password, t
 <button>Click me!</button>
 
 styles are used to style text in html. u can use it for colour, background and all sorts of things pertaining to stlye.
-it is written inside the first tag of a html tag.
+it is written inside the first tag of a html tag. A property is what defines the stye e.g. background-color.
+IMPORTANT- All of the style properties must end in ; check the below example for reference -IMPORTANT
 <p style="background-color: coral;">Hello!</p>
+    Useful style properties:
+    background-color: - The background colour of the text
+    color: - The coulour of the text
+    font-family: - The font of the text
+    font-size:[insert percent(%)] - The size of the text
+    text-align:[insert center, left or right] - The alignment of the text
